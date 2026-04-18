@@ -7,4 +7,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
