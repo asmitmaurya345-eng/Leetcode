@@ -11,4 +11,12 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
