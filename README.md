@@ -6,6 +6,7 @@ solutions of problems solved on leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0009-palindrome-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
