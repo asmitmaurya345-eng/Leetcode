@@ -7,11 +7,13 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +25,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
