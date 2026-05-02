@@ -1,9 +1,7 @@
 class Solution(object):
     def longestCommonPrefix(self, strs):
-        strs.sort()
-        s1=strs[0]
-        a=len(strs)-1
-        s2=strs[a]
+        s1=min(strs)
+        s2=max(strs)
         x=0
         while x< len(s1) and s1[x]==s2[x]:
             x+=1
