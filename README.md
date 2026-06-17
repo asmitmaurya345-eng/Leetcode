@@ -16,6 +16,7 @@ solutions of problems solved on leetcode
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
+| [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -57,4 +58,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
