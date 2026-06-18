@@ -19,12 +19,14 @@ solutions of problems solved on leetcode
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -34,6 +36,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
@@ -85,4 +88,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
