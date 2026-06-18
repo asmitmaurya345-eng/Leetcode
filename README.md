@@ -8,6 +8,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0009-palindrome-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
