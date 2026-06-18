@@ -9,7 +9,6 @@ class Solution(object):
                 sums=[a + b for a, b in zip(nums, nums[1:])]
                 min_=min(sums)
                 min_index=sums.index(min_)
-                nums.pop(min_index)
-                nums.pop(min_index)
-                nums.insert(min_index,min_)
+                nums[min_index]=min_
+                nums.pop(min_index+1)
                 turns+=1
