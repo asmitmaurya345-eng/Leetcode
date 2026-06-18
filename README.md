@@ -8,6 +8,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0009-palindrome-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -17,6 +18,7 @@ solutions of problems solved on leetcode
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
@@ -64,6 +66,7 @@ solutions of problems solved on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Linked List
