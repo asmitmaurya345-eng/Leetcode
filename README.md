@@ -28,6 +28,7 @@ solutions of problems solved on leetcode
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -92,4 +93,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
