@@ -32,6 +32,7 @@ solutions of problems solved on leetcode
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3379-transformed-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
+| [3379-transformed-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Linked List
