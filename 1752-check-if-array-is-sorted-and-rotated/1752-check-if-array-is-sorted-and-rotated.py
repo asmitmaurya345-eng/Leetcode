@@ -3,9 +3,7 @@ class Solution(object):
         l=len(nums)
         count=0
         for x in range(l):
-            if nums[x]<=nums[(x+1)%l]:
-                pass
-            else:
+            if nums[x]>nums[(x+1)%l]:
                 count+=1
                 if count>1:
                     return False
