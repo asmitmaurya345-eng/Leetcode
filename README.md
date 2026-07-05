@@ -31,6 +31,7 @@ solutions of problems solved on leetcode
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
