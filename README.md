@@ -21,6 +21,7 @@ solutions of problems solved on leetcode
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
