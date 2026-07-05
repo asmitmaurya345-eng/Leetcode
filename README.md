@@ -20,6 +20,7 @@ solutions of problems solved on leetcode
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
 |  |
@@ -71,6 +72,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +105,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
