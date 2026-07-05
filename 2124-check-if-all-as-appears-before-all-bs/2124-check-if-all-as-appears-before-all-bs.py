@@ -1,7 +1,10 @@
 class Solution(object):
     def checkString(self, s):
-        s1=sorted(s)
-        if list(s)==s1:
-            return True
+        b=0
+        for x in s:
+            if x=="b":
+                b+=1
+            elif b!=0:
+                return False
         else:
-            return False
+            return True
