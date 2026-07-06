@@ -30,6 +30,7 @@ solutions of problems solved on leetcode
 | [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -56,6 +57,7 @@ solutions of problems solved on leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0035-search-insert-position) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
