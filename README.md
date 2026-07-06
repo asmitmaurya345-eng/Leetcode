@@ -10,6 +10,7 @@ solutions of problems solved on leetcode
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -23,6 +24,7 @@ solutions of problems solved on leetcode
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -88,6 +90,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -124,4 +127,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
