@@ -12,6 +12,7 @@ solutions of problems solved on leetcode
 | [0066-plus-one](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -125,6 +126,7 @@ solutions of problems solved on leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0070-climbing-stairs) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
@@ -134,4 +136,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
