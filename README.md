@@ -101,6 +101,7 @@ solutions of problems solved on leetcode
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
