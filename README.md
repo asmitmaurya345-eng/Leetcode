@@ -40,6 +40,7 @@ solutions of problems solved on leetcode
 | [0035-search-insert-position](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -60,6 +61,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -119,6 +121,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
 |  |
