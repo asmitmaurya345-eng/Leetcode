@@ -37,6 +37,7 @@ solutions of problems solved on leetcode
 | [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0066-plus-one) |
@@ -60,6 +61,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
