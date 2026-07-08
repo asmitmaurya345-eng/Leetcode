@@ -4,6 +4,6 @@ class Solution(object):
         a=len(nums)
         for i in range(a):
             if nums[i] != val:
-                nums[k] = nums[i]  # Move it to the front
+                nums[k] = nums[i]
                 k += 1
         return k
