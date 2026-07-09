@@ -9,7 +9,13 @@ class Solution(object):
             area=w*hight
             maxw=max(maxw,area)
             if h[l]<h[r]:
+                clh=h[l]
                 l+=1
+                while l<r and h[l]<=clh:
+                    l+=1
             else:
+                crh=h[r]
                 r-=1
+                while l<r and h[r]<=crh:
+                    r-=1
         return maxw
