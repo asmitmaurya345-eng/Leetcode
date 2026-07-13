@@ -161,4 +161,8 @@ solutions of problems solved on leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
