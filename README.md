@@ -16,6 +16,7 @@ solutions of problems solved on leetcode
 | [0069-sqrtx](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -167,4 +168,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
