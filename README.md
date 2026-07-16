@@ -47,6 +47,7 @@ solutions of problems solved on leetcode
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0136-single-number) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -155,6 +156,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
