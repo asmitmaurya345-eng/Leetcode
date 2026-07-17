@@ -157,6 +157,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0190-reverse-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -174,4 +175,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
