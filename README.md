@@ -16,6 +16,7 @@ solutions of problems solved on leetcode
 | [0069-sqrtx](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0070-climbing-stairs) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -54,6 +55,7 @@ solutions of problems solved on leetcode
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3379-transformed-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -175,6 +177,7 @@ solutions of problems solved on leetcode
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
