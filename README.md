@@ -15,6 +15,7 @@ solutions of problems solved on leetcode
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -33,6 +34,7 @@ solutions of problems solved on leetcode
 | [0058-length-of-last-word](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
