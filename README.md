@@ -49,6 +49,7 @@ solutions of problems solved on leetcode
 | [0066-plus-one](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -65,6 +66,7 @@ solutions of problems solved on leetcode
 | [0001-two-sum](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -139,6 +141,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
@@ -182,6 +185,11 @@ solutions of problems solved on leetcode
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
