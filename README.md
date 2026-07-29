@@ -55,6 +55,7 @@ solutions of problems solved on leetcode
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -73,6 +74,7 @@ solutions of problems solved on leetcode
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -149,6 +151,7 @@ solutions of problems solved on leetcode
 | [0049-group-anagrams](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
