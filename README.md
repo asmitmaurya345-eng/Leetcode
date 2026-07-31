@@ -18,6 +18,7 @@ solutions of problems solved on leetcode
 | [0168-excel-sheet-column-title](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0258-add-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -123,6 +124,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0043-multiply-strings](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0258-add-digits) |
 | [3379-transformed-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -190,6 +192,7 @@ solutions of problems solved on leetcode
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
