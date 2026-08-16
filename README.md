@@ -97,6 +97,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0035-search-insert-position](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
@@ -220,4 +221,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
