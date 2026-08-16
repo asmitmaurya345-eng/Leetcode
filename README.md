@@ -58,6 +58,7 @@ solutions of problems solved on leetcode
 | [0136-single-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0704-binary-search) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -96,6 +97,7 @@ solutions of problems solved on leetcode
 | ------- |
 | [0035-search-insert-position](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
