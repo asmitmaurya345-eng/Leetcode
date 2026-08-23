@@ -229,4 +229,8 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0278-first-bad-version) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
