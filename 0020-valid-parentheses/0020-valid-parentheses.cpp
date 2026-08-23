@@ -28,9 +28,6 @@ public:
         }
         else{return false;}
     }
-    if (index==0)
-    {return true;}
-    return false;
-        
+    return index==0;    
     }
 };
