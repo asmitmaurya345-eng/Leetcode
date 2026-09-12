@@ -24,6 +24,7 @@ solutions of problems solved on leetcode
 | [0509-fibonacci-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
