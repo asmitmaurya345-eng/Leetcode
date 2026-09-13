@@ -73,6 +73,7 @@ solutions of problems solved on leetcode
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3379-transformed-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3379-transformed-array) |
+| [3452-sum-of-good-numbers](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
