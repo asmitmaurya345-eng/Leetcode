@@ -115,6 +115,7 @@ solutions of problems solved on leetcode
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
@@ -128,6 +129,7 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Simulation
@@ -239,4 +241,12 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
