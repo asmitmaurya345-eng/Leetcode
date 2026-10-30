@@ -64,6 +64,7 @@ solutions of problems solved on leetcode
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -151,6 +152,7 @@ solutions of problems solved on leetcode
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
@@ -167,6 +169,7 @@ solutions of problems solved on leetcode
 | [0088-merge-sorted-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Prefix Sum
@@ -217,6 +220,7 @@ solutions of problems solved on leetcode
 | [0169-majority-element](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -249,4 +253,20 @@ solutions of problems solved on leetcode
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/asmitmaurya345-eng/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
